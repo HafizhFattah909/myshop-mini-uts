@@ -54,8 +54,8 @@
 
 ## 📸 Screenshots
 
-| Home Screen | Product List | Product Detail |
-| :---: | :---: | :---: |
+| Home Screen | PL Minuman | PL makanan | PL Elektronik | Product Detail |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="web/icons/dashboard.png" width="200" /> | <img src="web/icons/produk_mnm.png" width="200" /> | <img src="web/icons/produk_mkn.png" width="200" /> | <img src="web/icons/produk_elk.png" width="200" /> | <img src="web/icons/dtl_produk2.png" width="200" /> |
 
 ---
